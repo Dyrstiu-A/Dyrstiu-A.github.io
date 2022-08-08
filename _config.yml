@@ -127,7 +127,7 @@ defaults:
         - label: Home
           url: /
         - label: Tags
-          url: /tabs/tags/
+          url: https://dyrstiu-a.github.io/tabs/tags/
   - scope:
       path: categories
     values:
