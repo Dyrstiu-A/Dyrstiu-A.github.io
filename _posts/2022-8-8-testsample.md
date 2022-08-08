@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Test"
-date: 2022-01-18
-image: ../../assets/img/Posts/dp.png
+date: 2022-08-08
+image: ../assets/img/Posts/dp.png
 categories: [Vulnhub]
 tags: [linux, lfi, rce, log poisoning, ubuntu]
 ---
