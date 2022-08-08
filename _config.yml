@@ -38,7 +38,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/felix-vaati/
 
-google_site_verification: qOjbLmpzhon_N-dLe0afT-ZsQes3FYR-Xa1VWdCtCro # change to your verification string
+google_site_verification: qOjbLmpzhon_N-dLe0afT-ZsQes3FYR-Xa1VWdCtCro  # change to your verification string
 
 #--------------------------
 
@@ -50,7 +50,7 @@ baseurl: ""
 timezone: Africa/Nairobi
 
 google_analytics:
-  id: "UA-177226674-1" # Fill with your Google Analytics ID
+  id: "G-V9PED35Y74" # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
