@@ -15,7 +15,7 @@ description: >- # used by seo meta and the atom feed
   Realm of Knowledge
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "https://dyrstiu-a.github.io/"
+url: "https://dyrstiu-a.github.io"
 
 author: Dyrstiu A # change to your full name
 
@@ -127,7 +127,7 @@ defaults:
         - label: Home
           url: /
         - label: Tags
-          url: https://dyrstiu-a.github.io/tabs/tags/
+          url: /tabs/tags/
   - scope:
       path: categories
     values:
