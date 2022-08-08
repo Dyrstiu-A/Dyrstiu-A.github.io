@@ -1,5 +1,5 @@
 ---
-title: Welcome to Oste's Realm of Knowledge
+title: Welcome to the Realm of Knowledge
 # The About page
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -7,60 +7,27 @@ title: Welcome to Oste's Realm of Knowledge
 # MIT License
 ---
 
-<img align="center" alt="Stephen Kageche" img src="../../assets/img/Posts/banner.png">
+<img align="center" alt="dyrstiu" img src="../../assets/img/Posts/banner.png">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> my name is 05t3 and i'm happy You are here😁
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> my name is Dyrstiu and i'm happy You are here😁
 
-You are visitor number <img src="https://profile-counter.glitch.me/05t3/count.svg" />
+You are visitor number <img src="https://profile-counter.glitch.me/Dyrstiu-A/count.svg" />
 
 <hr>
 
-<!-- <a href="https://twitter.com/oste_ke">
-  <img align="left" alt="Stephen Kageche | Twitter" width="22px" src="../../assets/img/Posts/resources/twitter.svg" />
-</a>
 
-<a href="https://www.reddit.com/user/oste08">
-  <img align="left" alt="Stephen Kageche | Reddit" width="22px" src="../../assets/img/Posts/resources/reddit.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/stephen-kageche-591193196/">
-  <img align="left" alt="Stephen Kageche | LinkedIn" width="22px" src="../../assets/img/Posts/resources/linkedin.svg" />
-</a>
-
-<a href="https://github.com/05t3/05t3">
-  <img align="left" alt="Stephen Kageche | Github" width="22px" src="../../assets/img/Posts/resources/github.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/stephen-kageche-591193196/">
-  <img align="left" alt="Stephen Kageche | Discord" width="22px" src="../../assets/img/Posts/resources/discord.svg" />
-</a>
-
-<a href="https://open.spotify.com/user/draidskxf4vzsrhv8xef72t8a?si=667fe12d67ca429b">
-  <img align="left" alt="Stephen Kageche | Spotify" width="22px" src="../../assets/img/Posts/resources/spotify-2.svg" />
-</a>
-
-<a href="mailto:stevegeche@gmail.com">
-  <img align="left" alt="Stephen Kageche" width="22px" src="../../assets/img/Posts/resources/official-gmail-icon-2020-.svg" />
-</a>
-
-<br>
-<hr> -->
-
-<!--
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
--->
 
 <img align="right" alt="GIF" src="../../assets/img/Posts/resources/code.gif" width="375" height="240" />
 
-Red teaming at night and Blue teaming by day.😅 Self-taught Forensic Investigator with keen interest in Disk, Memory, Network and Email forensics.During my free time, i enjoy messing around with my homelab, Containerisation technology (Docker), reading technical blogs, bug reports and current affairs. I enjoy playing CTF's with the [fr334aks-Mini](https://twitter.com/fr334aksmini) team where i majorly focus on Forensic challenges.
-<br>
+<!--Red teaming at night and Blue teaming by day.😅 Self-taught Forensic Investigator with keen interest in Disk, Memory, Network and Email forensics.During my free time, i enjoy messing around with my homelab, Containerisation technology (Docker), reading technical blogs, bug reports and current affairs. I enjoy playing CTF's with the [fr334aks-Mini](https://twitter.com/fr334aksmini) team where i majorly focus on Forensic challenges.
+<br>-->
 
 I'm currently job hunting and praying to land a Job in SOC. <br>
 
 <hr>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=05t3&show_icons=true&theme=radical" alt="05t3" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05t3&layout=compact&theme=radical" alt="05t3" />  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dyrstiu&show_icons=true&theme=radical" alt="dyrstiu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyrstiu&layout=compact&theme=radical" alt="dyrstiu" />  
   
 <hr>
 
@@ -130,13 +97,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-A little about myself:
 
-- 🐳 I’m currently working on Docker and Docker Security
-- 🐞 I’m currently learning Malware Analysis & Active Directory
-- 🤔 I’m looking for help with DFIR resources
-- 📫 How to reach me: Twitter, LinkedIn
-- 🙎🏾‍♂️ Pronouns: He/Him
-- ❤ I love: Rock/Jazz/LoFi/Afrobeats/ , Adventure, Anime and networking
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="oste" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<!--<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="#" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>-->
