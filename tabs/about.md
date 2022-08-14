@@ -31,7 +31,7 @@ I'm currently job hunting and praying to land a Job in SOC. <br>
   
 <hr>
 
-<!-- # Operating Systems & Virtualisation Software Familiar with
+<-- # Operating Systems & Virtualisation Software Familiar with
 
 | OS & VM's                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,18 +84,11 @@ I'm currently job hunting and praying to land a Job in SOC. <br>
   <img align="left" alt="Stephen Kageche | BTLO" width="35px" src="https://blueteamlabs.online/images/logo.png" />
 </a>
 
-<a href="https://cybertalents.com/members/05t3/profile">
-  <img align="left" alt="Stephen Kageche | CyberTalents" width="45px" src="https://cybertalents.com/images/logo-footer.png" />
+<a href="https://cybertalents.com/members/dyrstiu/profile">
+  <img align="left" alt="Dyrstiu | CyberTalents" width="45px" src="https://cybertalents.com/images/logo-footer.png" />
 </a>
 -->
 
-<!--
-**05t3/05t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
--->
 
 
 

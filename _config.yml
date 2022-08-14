@@ -44,7 +44,7 @@ google_site_verification: qOjbLmpzhon_N-dLe0afT-ZsQes3FYR-Xa1VWdCtCro  # change 
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ""
+baseurl: "https://dyrstiu-a.github.io"
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Africa/Nairobi
