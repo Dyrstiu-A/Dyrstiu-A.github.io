@@ -7,7 +7,7 @@ title: Welcome to the Realm of Knowledge
 # MIT License
 ---
 
-<img align="center" alt="dyrstiu" img src="Dyrstiublog\assets\img\Posts\banner.jpg">
+<img align="center" alt="dyrstiu" img src="../../assets/img/Posts/banner.jpg">
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> my name is Dyrstiu and i'm happy You are here😁
 
