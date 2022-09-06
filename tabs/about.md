@@ -35,11 +35,12 @@ You are visitor number <img src="https://profile-counter.glitch.me/dyrstiu/count
 
 A little about myself:
 
-- 🐳 I’m currently working on Docker and Docker Security
-- 🐞 I’m currently learning Malware Analysis, Active Directory, DevOps & Automation
-- 🤔 I’m looking for help with DFIR resources
-- 📫 How to reach me: Twitter, LinkedIn
-- 🙎🏾‍♂️ Pronouns: He/Him
-- ❤ I love: Rock and networking
+  -  🐳 I’m currently working on Docker and Docker Security
+  -  🐞 I’m currently learning Malware Analysis, Active Directory, DevOps & Automation
+  -  🤔 I’m looking for help with DFIR resources
+  - 📫 How to reach me: Twitter, LinkedIn
+  - 🙎🏾‍♂️ Pronouns: He/Him
+  - ❤ I love: Rock and networking
+  
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="dyrstiu" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
