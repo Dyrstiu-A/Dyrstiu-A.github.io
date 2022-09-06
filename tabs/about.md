@@ -7,7 +7,7 @@ title: Welcome to Dyrstiu's Precinct of Knowledge
 # MIT License
 ---
 
-<img align="center" alt="Dyrstiu" img src="../../assets/img/Posts/banner.png">
+<img align="center" alt="Dyrstiu" img src="../../assets/img/Posts/banner1.png">
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> my name is Dyrstiu and i'm happy You are here😁
 
