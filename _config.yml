@@ -7,9 +7,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Oste's Blog # the main title
+title: Dyrstiu's Blog # the main title
 
-tagline: CTF Player | DFIR | Blue Teamer # it will display as the sub-title
+tagline: CTF Player | Technical Writer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Realm of Knowledge
@@ -17,26 +17,26 @@ description: >- # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: "https://dyrstiu-a.github.io"
 
-author: Stephen Kageche # change to your full name
+author: Dyrstiu A # change to your full name
 
 avatar: /assets/img/Posts/dp.jpg # support internet resources
 
 github:
-  username: 05t3 # change to your github username
+  username: Dyrstiu # change to your github username
 
 twitter:
-  username: oste_ke # change to your twitter username
+  username: Dyrstiu # change to your twitter username
 
 social:
-  name: Stephen Kageche # it will shows as the copyright owner in Footer
-  email: 05t3@protonmail.com # change to your email address
+  name: Dyrstiu A # it will shows as the copyright owner in Footer
+  email: dyrstiu@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/oste_ke # change to your twitter homepage
-    - https://github.com/05t3 # change to your github homepage
+    - https://twitter.com/Dyrstiu # change to your twitter homepage
+    - https://github.com/Dyrstiu # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/stephen-kageche-591193196/
+    - https://www.linkedin.com/felix-vaati/
 
 google_site_verification: qOjbLmpzhon_N-dLe0afT-ZsQes3FYR-Xa1VWdCtCro # change to your verification string
 
