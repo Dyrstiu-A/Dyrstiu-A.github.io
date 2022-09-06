@@ -1,1 +1,1 @@
-# 05t3's Tech Blog
+# Dyrstiu's Tech Blog
