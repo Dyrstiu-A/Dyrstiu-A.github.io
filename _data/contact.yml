@@ -12,7 +12,7 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 - type: hackthebox
-  icon: "fas fa-pencil-square-o"
+  icon: "fa fa-pencil-square-o"
   url: "https://www.section.io/engineering-education/authors/felix-vaati/"
 
 #  type: rss
