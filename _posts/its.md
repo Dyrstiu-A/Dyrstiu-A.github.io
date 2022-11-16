@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "it's Md"
-date : 2022-10-3
+date : 2022-11-16
 image: ../../assets/img/Posts/bd.jpg
 categories : [Enjoyment]
 tags : [fun,Laughter]
